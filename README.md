@@ -24,4 +24,6 @@ abre o arquivo angula-cli.json, abaixo so style coloca "../node_modules/bootstra
 	git add (e o nome da pasta ele adiciona um por um)
 	git add --all (adiciona todos os arquivos)
 	git status (necessario ver os arquivos em verde que foram adicionados)
-	git commit -m "instalando bootstrap" ( para enviar para o github os arquivos adicionados, com o comentário "")
+	git commit -m "instalando bootstrap" (comentário "")
+	git status
+	git push origin master (para enviar para o github os arquivos adicionados)
